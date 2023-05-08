@@ -37,7 +37,7 @@ Contact :- @KOPAINGLAY15
 😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung"""
 
 
-    VIP_LINK = "https://t.me/YN_VIP_Series_ListAndPoster"
+    VIP_LINK = "https://t.me/YNVIPMEMBERBOT"
     
     ALL_LINK = "https://t.me/YNmovieone/7324"
     
