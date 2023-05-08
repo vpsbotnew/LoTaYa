@@ -18,7 +18,7 @@ class Config:
     
     API_ID = int(environ.get('API_ID', "12158462"))
     API_HASH = environ.get('API_HASH', "0b962717d931f4480c46d56c85d409a5")
-    BOT_TOKEN = environ.get('BOT_TOKEN', '5591630365:AAHgi0CzdT3PNoPkiyHJBFycO9gUYr_D7co')
+    BOT_TOKEN = environ.get('BOT_TOKEN', '5995494394:AAHiI7qX3R3kv1AAQx6YIWgUFTxtAjak18U')
 
 
     CACHE_TIME = int(environ.get('CACHE_TIME', 300))
