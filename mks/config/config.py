@@ -50,7 +50,7 @@ class Config:
 
 
 
-    DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://yoenaung:yya51910@cluster0.dqaesz6.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://lotaya:lotaya@cluster0.dnq4bem.mongodb.net/?retryWrites=true&w=majority")
     DATABASE_NAME = environ.get('DATABASE_NAME', "LTY1")
     DATABASE_NAME2 = environ.get('DATABASE_NAME2', "LTY2")
     COLLECTION_NAME = environ.get('COLLECTION_NAME', 'CHANNEL')
