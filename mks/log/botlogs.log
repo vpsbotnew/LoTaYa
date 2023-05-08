@@ -1,0 +1,74 @@
+[30-Sep-22 18:53:43 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:54:02 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:54:34 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:54:34 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 18:54:35 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 18:54:35 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 18:54:35 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 18:54:38 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 18:54:39 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[30-Sep-22 18:56:04 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:56:04 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 18:56:04 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 18:56:05 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 18:56:05 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 18:56:07 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 18:56:08 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[30-Sep-22 18:56:42 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:56:42 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 18:56:42 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 18:56:43 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 18:56:43 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 18:56:44 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[30-Sep-22 18:56:55 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 18:56:57 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[30-Sep-22 18:57:36 - INFO] - imdbpy.parser.http.piculet - using lxml
+[30-Sep-22 18:57:36 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 18:57:36 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 18:57:37 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 18:57:37 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 18:57:37 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[30-Sep-22 18:58:02 - INFO] - bot.utils.utils - newUser - SUBIN  ----- 626664225
+[30-Sep-22 18:58:15 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 18:58:16 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[30-Sep-22 18:59:19 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 18:59:19 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 18:59:19 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 18:59:19 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 18:59:20 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[30-Sep-22 18:59:37 - INFO] - bot.utils.broadcastHelper - Broadcast Sent to 626664225
+[30-Sep-22 18:59:40 - ERROR] - bot.plugins.broadcast - 'id'
+Traceback (most recent call last):
+  File "/home/subinps/Telegram/gitHub/afb/bot/plugins/broadcast.py", line 128, in broadcast_handler
+    user_id = int(user['id'])
+KeyError: 'id'
+[30-Sep-22 18:59:49 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 18:59:54 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[30-Sep-22 19:02:17 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] started ----
+[30-Sep-22 19:02:17 - INFO] - bot - --- Bot Initialized--- 
+[30-Sep-22 19:02:17 - INFO] - __main__ - Banned Users list updated []
+[30-Sep-22 19:02:17 - INFO] - __main__ - Listening for updates from API..
+[30-Sep-22 19:02:18 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[30-Sep-22 19:02:27 - INFO] - bot.utils.broadcastHelper - Broadcast Sent to 626664225
+[30-Sep-22 19:02:29 - INFO] - bot.utils.broadcastHelper - Broadcast Sent to 626664225
+[30-Sep-22 19:02:37 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[30-Sep-22 19:02:41 - INFO] - bot.client.client - ----- KP Auto Filter Bot [5407135210] stopped ---
+[27-Dec-22 14:44:59 - INFO] - bot.client.client - ----- Seo Yea-ji [5692803210] started ----
+[27-Dec-22 14:44:59 - INFO] - bot - --- Bot Initialized--- 
+[27-Dec-22 14:45:00 - INFO] - __main__ - Banned Users list updated []
+[27-Dec-22 14:45:00 - INFO] - __main__ - Listening for updates from API..
+[27-Dec-22 14:45:01 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[27-Dec-22 14:45:33 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[27-Dec-22 14:45:34 - INFO] - bot.client.client - ----- Seo Yea-ji [5692803210] stopped ---
+[27-Dec-22 14:45:34 - INFO] - bot.utils.tools - Stopped Pool : 15000 Workers
+[27-Dec-22 14:45:49 - INFO] - bot.client.client - ----- Seo Yea-ji [5692803210] started ----
+[27-Dec-22 14:45:49 - INFO] - bot - --- Bot Initialized--- 
+[27-Dec-22 14:45:50 - INFO] - __main__ - Banned Users list updated []
+[27-Dec-22 14:45:50 - INFO] - __main__ - Listening for updates from API..
+[27-Dec-22 14:45:50 - INFO] - bot.utils.initialization - --- Pending tasks completed ---
+[27-Dec-22 14:49:21 - INFO] - imdbpie.imdbpie - called get_title tt8772262
+[27-Dec-22 14:49:21 - INFO] - imdbpie.imdbpie - called get_title_auxiliary tt8772262
+[27-Dec-22 14:49:21 - INFO] - imdbpie.imdbpie - called get_title_releases tt8772262
+[27-Dec-22 14:52:05 - INFO] - bot.utils.idle - Stop signal received (SIGINT). Exiting...
+[27-Dec-22 14:52:09 - INFO] - bot.client.client - ----- Seo Yea-ji [5692803210] stopped ---
+[27-Dec-22 14:52:09 - INFO] - bot.utils.tools - Stopped Pool : 15000 Workers
