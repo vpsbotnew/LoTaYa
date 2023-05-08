@@ -41,9 +41,9 @@ Contact :- @KOPAINGLAY15
     
     ALL_LINK = "https://t.me/YNmovieone/7324"
     
-    CH_LINK = "https://t.me/YNMovie_SeriesBank"
+    CH_LINK = "https://t.me/MyanmarMovieYN"
     
-    GP_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
+    GP_LINK = "https://t.me/+qqQ2cCWKwDtmOGVl"
 
     SUPPORT_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
     
