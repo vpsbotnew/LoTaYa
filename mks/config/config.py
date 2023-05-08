@@ -26,7 +26,7 @@ class Config:
 
 
     PICS = (environ.get('PICS', 'https://graph.org/file/26b49f7376b1ae3d0223d.jpg')).split()    
-    ADS = (environ.get("NOR_IMG", "https://telegra.ph/file/019c6642112620d0d59cb.jpg https://telegra.ph/file/f3c03737e838da72d5295.jpg")).split()
+    ADS = (environ.get("NOR_IMG", "https://telegra.ph/file/19cc706d074b8b60c57a8.jpg https://telegra.ph/file/0c158fb5cb0cc53e4aaa4.jpg")).split()
     NOR_IMG = ADS 
     MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/9e8955496d249439791f8.mp4")
     SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/26b49f7376b1ae3d0223d.jpg")
@@ -42,7 +42,7 @@ class Config:
     auth_grp = environ.get('AUTH_GROUP')
     AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
     AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-    support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001827408500')
+    support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001575548449')
     reqst_channel = environ.get('REQST_CHANNEL_ID')
     REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
     SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
