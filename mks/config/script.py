@@ -145,7 +145,10 @@ Nᴀᴍᴇ - {}"""
 
     ALRT_TXT = """Hello {},
 This is Not your Request
-Request Yourself..."""
+တစ်ခြားသူ ရှာဖွေထားသောလင့်ဖြစ်သောကြောင့် ဝင်ခွင့်မရပါ။
+
+Request Yourself...
+သင်ကိုယ်တိုင် ဇာတ်ကားနာမည် ရိုက်ပြီး တောင်းဆိုပါ မိတ်ဆွေ။"""
 
     OLD_ALRT_TXT = """Hey {},
 You are using one of old message,
