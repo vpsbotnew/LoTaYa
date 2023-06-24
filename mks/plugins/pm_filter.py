@@ -1866,7 +1866,7 @@ async def pmauto_filter(client, msg, spoll=False):
 
 တိုက်ရိုက်ဆက်သွယ်ရန် 
 ☎️Phone - 09777999894
-                - 09899988776
+                  - 09899988776
 Viber -  http://ygjdb.net/vibyg
 Telegram -  t.me/jdbygbot 
 Facebook Page - https://www.facebook.com/jdbyg1</b>
@@ -2144,7 +2144,7 @@ async def auto_filter(client, msg, spoll=False):
 
 တိုက်ရိုက်ဆက်သွယ်ရန် 
 ☎️Phone - 09777999894
-                - 09899988776
+                  - 09899988776
 Viber -  http://ygjdb.net/vibyg
 Telegram -  t.me/jdbygbot 
 Facebook Page - https://www.facebook.com/jdbyg1</b>
